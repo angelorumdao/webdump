@@ -1,0 +1,16 @@
+</title><meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link href="http://i.cdnpark.com/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://i.cdnpark.com/themes/registrar/style_namecheap.css" rel="stylesheet" type="text/css" media="screen">
+	
+
+
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+<link href="http://i.cdnpark.com/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://i.cdnpark.com/themes/registrar/style_namecheap.css" rel="stylesheet" type="text/css" media="screen">
+
+user-scalable=no
+
